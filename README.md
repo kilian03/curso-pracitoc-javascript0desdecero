@@ -1,2 +1,2 @@
-# curso-pracitoc-javascript0desdecero
+# curso-pracitoc-javascript-desdecero
 practico con javascript
